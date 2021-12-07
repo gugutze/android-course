@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyFirstApplication</string>
+    <string name="hello">Hello</string>
+    <string name="bye">Bye</string>
+    <string name="button">Button</string>
+    <string name="new_text">New text</string>
 </resources>
