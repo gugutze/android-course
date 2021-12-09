@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/gugut/AndroidStudioProjects/MyApplication/android-course/app/src/main/res/layout/activity_main.xml" value="0.165" />
+        <entry key="..\:/Users/gugut/AndroidStudioProjects/MyApplication/android-course/app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="..\:/Users/gugut/AndroidStudioProjects/MyApplication/android-course/app/src/main/res/layout/fragment_end.xml" value="0.1796875" />
+        <entry key="..\:/Users/gugut/AndroidStudioProjects/MyApplication/android-course/app/src/main/res/layout/fragment_first.xml" value="0.1796875" />
+        <entry key="..\:/Users/gugut/AndroidStudioProjects/MyApplication/android-course/app/src/main/res/layout/fragment_second.xml" value="0.1796875" />
+        <entry key="..\:/Users/gugut/AndroidStudioProjects/MyApplication/android-course/app/src/main/res/layout/fragment_start.xml" value="0.1796875" />
+        <entry key="..\:/Users/gugut/AndroidStudioProjects/MyApplication/android-course/app/src/main/res/layout/user_list_item.xml" value="0.5" />
+        <entry key="..\:/Users/gugut/AndroidStudioProjects/MyApplication/android-course/app/src/main/res/menu/bottom_bar.xml" value="0.1796875" />
         <entry key="..\:/Users/gugut/AndroidStudioProjects/MyApplication/android-course/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19583333333333333" />
       </map>
     </option>
