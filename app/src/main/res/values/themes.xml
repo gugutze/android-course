@@ -27,7 +27,7 @@
     </style>
 
     <style name="Theme.MyApp.TextView" parent="Widget.MaterialComponents.TextView">
-        <item name="android:alpha">0.25</item>
+        <item name="android:alpha">0.15</item>
     </style>
 
 </resources>
