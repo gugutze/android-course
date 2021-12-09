@@ -1,8 +1,12 @@
 <resources>
     <string name="app_name">MyFirstApplication</string>
-    <string name="hello">Hello</string>
-    <string name="bye">Bye</string>
-    <string name="button">Button</string>
-    <string name="new_text">New text</string>
-    <string name="random">Random</string>
+    <string name="left_button">Left Button</string>
+    <string name="this_is_a_textview">This is a TextView</string>
+    <string name="title">Tulips</string>
+    <string name="this_is_a_card">This is a Card</string>
+    <string name="supporting_text">I take it from material.io site</string>
+    <string name="right_button">Right Button</string>
+    <string name="desc">Pic of tulips</string>
+    <string name="hint">Type password here</string>
+
 </resources>
