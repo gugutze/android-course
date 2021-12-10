@@ -1,22 +1,12 @@
 <resources>
-    <string name="app_name">MyFirstApplication</string>
-    <string name="left_button">Left Button</string>
-    <string name="this_is_a_textview">This is a TextView</string>
-    <string name="title">Tulips</string>
-    <string name="this_is_a_card">This is a Card</string>
-    <string name="supporting_text">I take it from material.io site</string>
-    <string name="right_button">Right Button</string>
-    <string name="desc">Pic of tulips</string>
-    <string name="hint">Type password here</string>
+    <string name="app_name">MagicBall</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="hello">Hello</string>
-    <string name="my_fragments">My fragments</string>
-    <string name="switch_fragments">Switch fragments</string>
-    <string name="start_fragment">Start fragment</string>
-    <string name="end_fragment">End fragment</string>
-    <string name="first_fragment">First fragment</string>
-    <string name="second_fragment">Second fragment</string>
+    <string name="shake">Shake the ball</string>
+    <string name="credits">Credits:</string>
+    <string name="magic_ball_bar">Magic Ball</string>
+    <string name="credits_bar">Credits</string>
+    <string name="visit_odin">Visit ODIN</string>
 
 
 

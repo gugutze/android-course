@@ -2,14 +2,13 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/fragment_1"
-        android:enabled="true"
-        android:icon="@drawable/ic_android_black_24dp"
-        android:title="@string/first_fragment"/>
+        android:id="@+id/magic_ball_shake"
+        android:icon="@drawable/magic_ball_icon"
+        android:title="@string/magic_ball_bar" />
+
     <item
-        android:id="@+id/fragment_2"
-        android:enabled="true"
-        android:icon="@drawable/ic_android_black_24dp"
-        android:title="@string/second_fragment"/>
+        android:id="@+id/credits"
+        android:icon="@drawable/magic_ball_icon"
+        android:title="@string/credits_bar" />
 
 </menu>
